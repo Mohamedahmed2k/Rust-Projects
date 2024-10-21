@@ -1,0 +1,1 @@
+(&str, {integer}, char, {float}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, {integer}, &str, &str, &str)
